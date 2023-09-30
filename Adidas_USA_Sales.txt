@@ -1,0 +1,13 @@
+The data is from https://data.world/stellabigail/adidas-us-sales-datasets
+
+We are using it to create a Predictive machine-learning model. 
+
+I noticed that there is a sudden spike in sales after January 2021, also way more sales than in 2020 (about 7000). 
+
+For visualisations done for the project through Tableu. Here are the links: 
+
+1. Dashboard_1: https://public.tableau.com/app/profile/emmanuel.ochieng/viz/Adidas_Sales_Analysis/Dashboard1?publish=yes
+
+2. Dashboard_2: https://public.tableau.com/app/profile/emmanuel.ochieng/viz/Adidas_Sales_Analysis_2/Dashboard2?publish=yes
+
+3. Dashboard_3: https://public.tableau.com/app/profile/emmanuel.ochieng/viz/Adidas_Sales_Analysis_3/Dashboard3?publish=yes
